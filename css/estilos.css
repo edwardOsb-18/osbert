@@ -1,0 +1,18 @@
+#div1 {
+  color: green; }
+  #div1 h1 {
+    color: red; }
+
+.cuadardo1 {
+  background-color: green;
+  width: 50%;
+  height: 400px;
+  color: gray; }
+
+.cuadardo2 {
+  background-color: green;
+  width: 100%;
+  height: 20px;
+  color: gray; }
+
+/*# sourceMappingURL=estilos.css.map */

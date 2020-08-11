@@ -1,0 +1,17 @@
+
+
+@mixin cuadrado($altura:20px,$ancho:10px,$edward:red) {
+    background-color: green;
+    width: $ancho;
+    height: $altura;
+    color: $edward ;
+
+    
+}
+
+.cuadardo1{
+    @include cuadrado(400px,50%,$name);
+}
+.cuadardo2{
+    @include cuadrado(20px,100%,$name);
+}
